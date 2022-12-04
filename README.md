@@ -1,5 +1,3 @@
-# -Avatara-zkapp-browser-ui
-
 
 # Cool Linux terminal tricks to save time and increase productivity
 
